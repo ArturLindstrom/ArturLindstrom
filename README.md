@@ -18,25 +18,26 @@
 
 | Repo                                           | Deployed Site                                      | Description 
 | ---------------------------------------------- | -------------------------------------------------- | --------------------------------------------------
-| [Desinfektionsguiden][DG]                      | [https://desinfektion.netlify.app/][DGS]           | E-learning project made for Learnways AB with Vue 3
-| [Ditt inre apotek][DIA]                        | [https://dittinreapotek.netlify.app/][DIAS]        | E-learning project made for Learnways AB with Vue 3
-| [Star Wars Catalog][SW]                        | [jesperskold.github.io/star-wars-catalog][SWS]     | A Star Wars themed catalog. Built with Vue.   
-| [E-wallet][EW]                                 | [jesperskold.github.io/e-wallet][EWS]              | A digital wallet simulator. Built with Vue.
-| [Meme Customizer][MC]                          | [meme-customizer.netlify.app][MCS]                 | A site for customizing popular memes. Built with React and TS.
-| [DRG Mini Project][DRG]                        | [jesperskold.github.io/drg-mini-project][DRGS]     | A small all in one e-commerce themed site. Built with Vue.
+| [Desinfektionsguiden][DG]                      | [https://desinfektion.netlify.app/][DGS]           | E-learning project made for Learnways AB with Vue 3.
+| [Ditt inre apotek][DIA]                        | [https://dittinreapotek.netlify.app/][DIAS]        | E-learning project made for Learnways AB with Vue 3.
+| [E-wallet][EW]                                 | [https://e-wallet-artur.netlify.app/][EWS]         | A digital wallet simulator made with Vue 2 and Vuex.  
+| [Receptsajten][RS]                             | Not Deployed                                       | A full stack recipe application. Built with React, Typescript, Node, Express and mongodb.
+| [School Portfolio][SP]                         | [https://arturlindstrom.netlify.app/][SPS]         | School Project made with gatsby, Typescript and Contentful.
+| [SINUS Webshop][SIW]                            | Not Deployed                                       | Collaborative school project for an e-commerce store. Built with Vue.
 | [Todo App][TA]                                 | [jesperskold.github.io/todo-app-vue][TAS]          | A tiny TODO app. Built with Vue.
 | [SINUS Webshop][SIW]                           | Not Deployed                                       | Collaborative project for an e-commerce store. Built with Vue.
 | [Star Wars Catalog Pure JS][SWJS]              | Not Deployed                                       | A Star Wars themed catalog - but with no frameworks.
 
 [DG]: https://github.com/ArturLindstrom/learnways-desinfektionsguiden
 [DGS]: https://desinfektion.netlify.app/
-[DIA]: https://github.com/JesperSkold/portfolio-site
+[DIA]: https://github.com/ArturLindstrom/learnways-ditt-inre-apotek
 [DIAS]: https://dittinreapotek.netlify.app/
-[SW]: https://github.com/JesperSkold/star-wars-catalog
-[SWS]: https://jesperskold.github.io/star-wars-catalog/
-[EW]: https://github.com/JesperSkold/e-wallet
-[EWS]: https://jesperskold.github.io/e-wallet/
-[DRG]: https://github.com/JesperSkold/drg-mini-project
+[EW]: https://github.com/ArturLindstrom/e-wallet
+[EWS]: https://e-wallet-artur.netlify.app/
+[RS]: https://github.com/ArturLindstrom/receptsajten
+[SP]: https://github.com/ArturLindstrom/Portfolio
+[SPS]: https://arturlindstrom.netlify.app/
+[SIW]: https://github.com/JesperSkold/SINUS-webshop
 [DRGS]: https://jesperskold.github.io/drg-mini-project/
 [TA]: https://github.com/JesperSkold/todo-app-vue
 [TAS]: https://jesperskold.github.io/todo-app-vue/
