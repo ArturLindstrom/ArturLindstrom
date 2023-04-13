@@ -17,7 +17,9 @@
 
 | Repo                                           | Deployed Site                                      | Description 
 | ---------------------------------------------- | -------------------------------------------------- | --------------------------------------------------
-| [desinfektionsguiden][DG]                              | [recipe-site.onrender.com][RSS]                    | A full stack recipe site. Built with React, Express and TS. 
+| [Desinfektionsguiden][DG]
+E-learning project made for Learnways AB with Vue 3
+| [recipe-site.onrender.com][RSS]                    | A full stack recipe site. Built with . 
 | [My Portfolio][PS]                             | [jesperolsson.gatsbyjs.io][PSS]                    | My portfolio. Built with GatsbyJS and React.
 | [Star Wars Catalog][SW]                        | [jesperskold.github.io/star-wars-catalog][SWS]     | A Star Wars themed catalog. Built with Vue.   
 | [E-wallet][EW]                                 | [jesperskold.github.io/e-wallet][EWS]              | A digital wallet simulator. Built with Vue.
