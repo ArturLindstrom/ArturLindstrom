@@ -18,8 +18,8 @@
 
 | Repo                                           | Deployed Site                                      | Description 
 | ---------------------------------------------- | -------------------------------------------------- | --------------------------------------------------
-| [Desinfektionsguiden][DG]                      | [recipe-site.onrender.com][DGS]            | E-learning project made for Learnways AB with Vue 3
-| [Ditt inre apotek][DIA]                             | [jesperolsson.gatsbyjs.io][PSS]                    | My portfolio. Built with GatsbyJS and React.
+| [Desinfektionsguiden][DG]                      | [https://desinfektion.netlify.app/][DGS]           | E-learning project made for Learnways AB with Vue 3
+| [Ditt inre apotek][DIA]                        | [https://dittinreapotek.netlify.app/][DIAS]        | E-learning project made for Learnways AB with Vue 3
 | [Star Wars Catalog][SW]                        | [jesperskold.github.io/star-wars-catalog][SWS]     | A Star Wars themed catalog. Built with Vue.   
 | [E-wallet][EW]                                 | [jesperskold.github.io/e-wallet][EWS]              | A digital wallet simulator. Built with Vue.
 | [Meme Customizer][MC]                          | [meme-customizer.netlify.app][MCS]                 | A site for customizing popular memes. Built with React and TS.
