@@ -23,10 +23,7 @@
 | [E-wallet][EW]                                 | [https://e-wallet-artur.netlify.app/][EWS]         | A digital wallet simulator made with Vue 2 and Vuex.  
 | [Receptsajten][RS]                             | Not Deployed                                       | A full stack recipe application. Built with React, Typescript, Node, Express and mongodb.
 | [School Portfolio][SP]                         | [https://arturlindstrom.netlify.app/][SPS]         | School Project made with gatsby, Typescript and Contentful.
-| [SINUS Webshop][SIW]                            | Not Deployed                                       | Collaborative school project for an e-commerce store. Built with Vue.
-| [Todo App][TA]                                 | [jesperskold.github.io/todo-app-vue][TAS]          | A tiny TODO app. Built with Vue.
-| [SINUS Webshop][SIW]                           | Not Deployed                                       | Collaborative project for an e-commerce store. Built with Vue.
-| [Star Wars Catalog Pure JS][SWJS]              | Not Deployed                                       | A Star Wars themed catalog - but with no frameworks.
+| [SINUS Webshop][SIW]                           | Not Deployed                                       | Collaborative school project for an e-commerce store. Built with Vue.
 
 [DG]: https://github.com/ArturLindstrom/learnways-desinfektionsguiden
 [DGS]: https://desinfektion.netlify.app/
@@ -38,13 +35,7 @@
 [SP]: https://github.com/ArturLindstrom/Portfolio
 [SPS]: https://arturlindstrom.netlify.app/
 [SIW]: https://github.com/JesperSkold/SINUS-webshop
-[DRGS]: https://jesperskold.github.io/drg-mini-project/
-[TA]: https://github.com/JesperSkold/todo-app-vue
-[TAS]: https://jesperskold.github.io/todo-app-vue/
-[SIW]: https://github.com/JesperSkold/SINUS-webshop
-[SWJS]: https://github.com/JesperSkold/star-wars-swapi-js
-[MC]: https://github.com/JesperSkold/meme-generator
-[MCS]: https://meme-customizer.netlify.app/
+
 
 ## GitHub Stats 📈
 ![GitHub metrics](https://metrics.lecoq.io/ArturLindstrom)
