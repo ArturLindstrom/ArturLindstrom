@@ -18,7 +18,7 @@
 
 | Repo                                           | Deployed Site                                      | Description 
 | ---------------------------------------------- | -------------------------------------------------- | --------------------------------------------------
-| [Desinfektionsguiden][RS]                      | [recipe-site.onrender.com][RSS]            | E-learning project made for Learnways AB with Vue 3
+| [Desinfektionsguiden][DG]                      | [recipe-site.onrender.com][DGS]            | E-learning project made for Learnways AB with Vue 3
 | [Ditt inre apotek][DIA]                             | [jesperolsson.gatsbyjs.io][PSS]                    | My portfolio. Built with GatsbyJS and React.
 | [Star Wars Catalog][SW]                        | [jesperskold.github.io/star-wars-catalog][SWS]     | A Star Wars themed catalog. Built with Vue.   
 | [E-wallet][EW]                                 | [jesperskold.github.io/e-wallet][EWS]              | A digital wallet simulator. Built with Vue.
