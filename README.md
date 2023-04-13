@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
 <h3 align="center">A passionate frontend developer from Stockholm</h3>
 
-- 🔭 I’m currently doing my internship at **Kumpan.se**
+- 🔭 I’m currently doing my internship at [Kumpan.se][KU]
 
 - 📫 How to reach me **artur.lindstrom@gmail.com**
 
@@ -35,6 +35,7 @@
 [SP]: https://github.com/ArturLindstrom/Portfolio
 [SPS]: https://arturlindstrom.netlify.app/
 [SIW]: https://github.com/JesperSkold/SINUS-webshop
+[KU]: https://kumpan.se/
 
 
 ## GitHub Stats 📈
