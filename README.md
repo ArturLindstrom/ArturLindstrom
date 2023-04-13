@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
 <h3 align="center">A passionate frontend developer from Stockholm</h3>
 
-- 🔭 I’m currently doing my internship at **[Kumpan.se]**[KU]
+- 🔭 I’m currently doing my internship at **[Kumpan.se][KU]**
 
 - 📫 How to reach me: **artur.lindstrom@gmail.com**
 
