@@ -18,8 +18,8 @@
 
 | Repo                                           | Deployed Site                                      | Description 
 | ---------------------------------------------- | -------------------------------------------------- | --------------------------------------------------
-| [Recipe Site][RS]                              | [recipe-site.onrender.com][RSS]                    | A full stack recipe site. Built with React, Express and TS. 
-| [My Portfolio][PS]                             | [jesperolsson.gatsbyjs.io][PSS]                    | My portfolio. Built with GatsbyJS and React.
+| [Desinfektionsguiden][RS]                      | [recipe-site.onrender.com][RSS]            | E-learning project made for Learnways AB with Vue 3
+| [Ditt inre apotek][DIA]                             | [jesperolsson.gatsbyjs.io][PSS]                    | My portfolio. Built with GatsbyJS and React.
 | [Star Wars Catalog][SW]                        | [jesperskold.github.io/star-wars-catalog][SWS]     | A Star Wars themed catalog. Built with Vue.   
 | [E-wallet][EW]                                 | [jesperskold.github.io/e-wallet][EWS]              | A digital wallet simulator. Built with Vue.
 | [Meme Customizer][MC]                          | [meme-customizer.netlify.app][MCS]                 | A site for customizing popular memes. Built with React and TS.
@@ -28,10 +28,10 @@
 | [SINUS Webshop][SIW]                           | Not Deployed                                       | Collaborative project for an e-commerce store. Built with Vue.
 | [Star Wars Catalog Pure JS][SWJS]              | Not Deployed                                       | A Star Wars themed catalog - but with no frameworks.
 
-[DG]: https://github.com/JesperSkold/recipe-site
-[RSS]: https://recipe-site.onrender.com/
-[PS]: https://github.com/JesperSkold/portfolio-site
-[PSS]: https://jesperolsson.gatsbyjs.io/
+[DG]: https://github.com/ArturLindstrom/learnways-desinfektionsguiden
+[DGS]: https://desinfektion.netlify.app/
+[DIA]: https://github.com/JesperSkold/portfolio-site
+[DIAS]: https://dittinreapotek.netlify.app/
 [SW]: https://github.com/JesperSkold/star-wars-catalog
 [SWS]: https://jesperskold.github.io/star-wars-catalog/
 [EW]: https://github.com/JesperSkold/e-wallet
