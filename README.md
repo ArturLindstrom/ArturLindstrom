@@ -17,6 +17,7 @@
 | ---------------------------------------------- | -------------------------------------------------- | --------------------------------------------------
 | [Desinfektionsguiden][DG]                      | [https://desinfektion.netlify.app/][DGS]           | E-learning project made for Learnways AB with Vue 3.
 | [Ditt inre apotek][DIA]                        | [https://dittinreapotek.netlify.app/][DIAS]        | E-learning project made for Learnways AB with Vue 3.
+| [Powerballadkören][PBK]                        | [http://powerballadkoren.se/][PBKS]                | Website for a local choir made with Vue 3.
 | [E-wallet][EW]                                 | [https://e-wallet-artur.netlify.app/][EWS]         | A digital wallet simulator made with Vue 2 and Vuex.  
 | [Receptsajten][RS]                             | Not Deployed                                       | A full stack recipe application. Built with React, Typescript, Node, Express and mongodb.
 | [School Portfolio][SP]                         | [https://arturlindstrom.netlify.app/][SPS]         | School Project made with gatsby, Typescript and Contentful.
@@ -26,6 +27,8 @@
 [DGS]: https://desinfektion.netlify.app/
 [DIA]: https://github.com/ArturLindstrom/learnways-ditt-inre-apotek
 [DIAS]: https://dittinreapotek.netlify.app/
+[PBK]: https://github.com/axelcatasus/pbk-vue
+[PBKS]: http://powerballadkoren.se/
 [EW]: https://github.com/ArturLindstrom/e-wallet
 [EWS]: https://e-wallet-artur.netlify.app/
 [RS]: https://github.com/ArturLindstrom/receptsajten
