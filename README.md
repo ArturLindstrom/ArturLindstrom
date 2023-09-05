@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
 <h3 align="center">A passionate frontend developer from Stockholm</h3>
 
-🔭  I’m currently doing my internship at **[Kumpan.se][KU]**
-
 📫  Reach me at **artur.lindstrom@gmail.com**
 
 
@@ -23,7 +21,6 @@
 | [Powerballadkören][PBK]                        | [http://powerballadkoren.se/][PBKS]                | Website for a local choir made with Vue 3.
 | [E-wallet][EW]                                 | [https://e-wallet-artur.netlify.app/][EWS]         | A digital wallet simulator made with Vue 2 and Vuex.  
 | [Receptsajten][RS]                             | Not Deployed                                       | A full stack recipe application. Built with React, Typescript, Node, Express and mongodb.
-| [School Portfolio][SP]                         | [https://arturlindstrom.netlify.app/][SPS]         | School Project made with gatsby, Typescript and Contentful.
 | [SINUS Webshop][SIW]                           | Not Deployed                                       | Collaborative school project for an e-commerce store. Built with Vue.
 
 [DG]: https://github.com/ArturLindstrom/learnways-desinfektionsguiden
