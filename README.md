@@ -37,6 +37,3 @@
 [SIW]: https://github.com/JesperSkold/SINUS-webshop
 [KU]: https://kumpan.se/
 
-
-## GitHub Stats 📈
-![GitHub metrics](https://metrics.lecoq.io/ArturLindstrom)
